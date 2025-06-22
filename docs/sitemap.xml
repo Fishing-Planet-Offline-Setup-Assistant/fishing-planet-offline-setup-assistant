@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+        
+  <!-- Main Pages -->
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fishing-planet-offline-setup-assistant.github.io/assets/images/fishing-gameplay.png</image:loc>
+      <image:title>Fishing Planet Offline Gameplay</image:title>
+      <image:caption>Enjoy realistic fishing mechanics with dynamic weather and authentic fish behavior</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/docs/installation</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/docs/gameplay</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/docs/troubleshooting</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/docs/configuration</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Feature Pages -->
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/docs/fishing-tips</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/docs/locations</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/docs/fish-guide</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/docs/achievements</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- Technical Documentation -->
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/docs/advanced-config</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/docs/performance</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/docs/controller-setup</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fishing-planet-offline-setup-assistant.github.io/docs/save-management</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- Repository Links -->
+  <url>
+    <loc>https://github.com/Fishing-Planet-Offline-Setup-Assistant/fishing-planet-offline-setup-assistant</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Fishing-Planet-Offline-Setup-Assistant/fishing-planet-offline-setup-assistant/releases</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Fishing-Planet-Offline-Setup-Assistant/fishing-planet-offline-setup-assistant/issues</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Fishing-Planet-Offline-Setup-Assistant/fishing-planet-offline-setup-assistant/discussions</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset> 

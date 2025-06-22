@@ -1,0 +1,91 @@
+# Site settings
+title: "Fishing Planet Offline Setup Assistant"
+description: "Download and install Fishing Planet offline without Steam, login, or internet connection. Enjoy realistic fishing simulation with 100+ fish species, 20+ locations, and solo gameplay mode."
+baseurl: ""
+url: "https://fishing-planet-offline-setup-assistant.github.io"
+
+# SEO settings
+author: "Fishing Planet Offline Setup Assistant Team"
+twitter:
+  username: FishingPlanetOffline
+  card: summary_large_image
+facebook:
+  app_id: 
+  publisher: 
+  admins: 
+
+logo: "/assets/images/logo.png"
+social:
+  name: Fishing Planet Offline Setup Assistant
+  links:
+    - https://github.com/Fishing-Planet-Offline-Setup-Assistant/fishing-planet-offline-setup-assistant
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+# Theme
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - docs/installation.md
+  - docs/gameplay.md
+  - docs/troubleshooting.md
+  - docs/support.md
+
+# Collections
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Fishing Planet Team"
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: "guide"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .internal/
+
+# Google Analytics
+google_analytics: # Add your GA tracking ID here if needed
+
+# Meta tags
+lang: en_US
+keywords: "fishing game offline, fishing planet no steam, offline fishing simulator, fishing game no internet, setup fishing planet offline, fishing simulation game, fishing planet download, offline gaming setup"
+
+# Social sharing
+twitter_image: "/assets/images/social-preview.png"
+facebook_image: "/assets/images/social-preview.png"
+
+# GitHub repository
+repository: "Fishing-Planet-Offline-Setup-Assistant/fishing-planet-offline-setup-assistant"
+
+# Contact
+email: camilathevance@outlook.es
+
+# Copyright
+copyright: "© 2024 Fishing Planet Offline Setup Assistant. All rights reserved." 
